@@ -1,0 +1,12 @@
+[package]
+name = "OpenGL_Rust_ch01_11"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gl = "0.14.0"
+
+
+[dependencies.sdl2]
+version = "0.37.0"
+features = ["bundled", "static-link"]
