@@ -1,7 +1,10 @@
 [package]
-name = "OpenGL_Rust_ch01_11"
+name = "OpenGL_Rust_ch01_11-lesson-03-shaders"
 version = "0.1.0"
 edition = "2021"
+
+authors = ["Nerijus Arlauskas <nercury@gmail.com>"]
+
 
 [dependencies]
 gl = "0.14.0"
